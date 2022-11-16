@@ -4,7 +4,7 @@ See [Here](https://github.com/elicorrales/learning-rust-n-wasm-tutorials/blob/ma
   
 
 ```
-;; <---sinle line comments
+;; <---single line comments
 ;; comments alone in a file caused error: unexpected token "EOF", expected a module field or a module.
 
 (;
